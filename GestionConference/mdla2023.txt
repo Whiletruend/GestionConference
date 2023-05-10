@@ -1,0 +1,8 @@
+Nom de la conférence: MDLA
+Lieu de la conférence: online
+Année de la conférence: 2023
+URL de la conférence: https://mdla2023-online.zoom.us/546823
+Mot de passe de la conférence: 546823
+
+Session sur Le monde de l'arithmétique le 31/10
+	Présentation de l'article "Comment fonctionne l'arithmétique, en 1h" par Benjamin à 8 heures

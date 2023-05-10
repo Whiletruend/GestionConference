@@ -1,0 +1,11 @@
+Nom de la conférence: LPDP
+Lieu de la conférence: Paris
+Année de la conférence: 2023
+
+Session sur Qu'est-ce que le langage python ? le 31/10
+	Présentation de l'article "Comment a-t'il été créé ?" par Benjamin à 8 heures
+	Présentation de l'article "Quelles sont les possibilités avec ce langage ?" par Ewen à 9 heures
+
+Session sur Le language python - avancé le 31/10
+	Présentation de l'article "Comment a-t'il été créé ?" par Benjamin à 8 heures
+	Présentation de l'article "Quelles sont les possibilités avec ce langage ?" par Ewen à 9 heures

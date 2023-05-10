@@ -1,0 +1,11 @@
+Nom de la conférence: PDDI
+Lieu de la conférence: Berlin
+Année de la conférence: 2023
+
+Session sur Qu'est-ce qu'une donnée ? le 14/12
+	Présentation de l'article "Comment sont-elles créées ?" par Benjamin à 8 heures
+	Présentation de l'article "A quoi elle sert ?" par Benjamin à 9 heures
+
+Session sur Pourquoi les protéger ? le 14/12
+	Présentation de l'article "Pourquoi et comment les protéger ?" par Ewen à 8 heures
+	Présentation de l'article "Les organismes qui nous protègent" par Ewen à 9 heures
